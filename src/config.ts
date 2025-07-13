@@ -11,7 +11,7 @@ export default {
   maxListeners: 15,
   customUserDataDir: './userDataDir/',
   webhook: {
-    url: null,
+    url: 'https://oriox.app.n8n.cloud/webhook/464f7dda-679d-42bb-b4bb-2c7337e9ebca',
     autoDownload: true,
     uploadS3: false,
     readMessage: true,
